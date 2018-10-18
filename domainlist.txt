@@ -170,3 +170,6 @@ r8---sn-uxanug5-ntqd.googlevideo.com
 r8---sn-uxanug5-ntqe7.googlevideo.com
 r8---sn-uxanug5-ntqy.googlevideo.com
 r9---sn-bvvbax-hn26.googlevideo.com
+r5---sn-u5a3u5a3-aigz.googlevideo.com
+r5---sn-u5a3u5a3-aigs.googlevideo.com
+r3---sn-5uaezn6d.googlevideo.com
